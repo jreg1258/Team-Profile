@@ -26,8 +26,6 @@ describe("Render HTML", ()=>{
 <h4>joey@email.com</h4>
 <p class="text-muted">Harvard</p>
 </blockquote>
-</div>
-</div>
 </div>`)
     })
     test("Place team member info into team", ()=>{
